@@ -1,0 +1,9 @@
+# Ignore all files
+*
+
+# Allow specific file extensions
+!*.txt
+!*.py
+!*.c
+!.gitignore
+
