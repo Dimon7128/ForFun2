@@ -1,9 +1,12 @@
-# Ignore all files
-*
+# # Ignore all files
+# *
 
-# Allow specific file extensions
-!*.txt
-!*.py
-!*.c
-!.gitignore
-# !.env
+# # Allow specific file extensions
+
+
+
+*.txt
+*.py
+*.c
+.gitignore
+.env
